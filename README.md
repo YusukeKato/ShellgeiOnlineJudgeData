@@ -9,4 +9,6 @@ SHELLGEI ONLINE JUDGE: https://shellgei-online-judge.com/
 # LICENSE
 本リポジトリはCreative Commons BY-NC-ND 4.0で公開しています。
 
-LICENSE: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt)
+LICENSE: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+全文: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt
