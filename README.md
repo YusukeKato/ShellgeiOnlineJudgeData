@@ -6,10 +6,10 @@ SHELLGEI ONLINE JUDGE: https://shellgei-online-judge.com/
 # About DATA
 問題ごとにIDを割り当てて管理しています。
 
-- problem: 日本語問題文ファイル
-- eng_problem: 英語問題文ファイル
-- input: 入力ファイル
-- output: 想定出力ファイル
+- problem/\*.txt: 日本語問題文ファイル
+- eng_problem/\*.txt: 英語問題文ファイル
+- input/\*.txt: 入力ファイル
+- output/\*.txt: 想定出力ファイル
 
 一つの問題は下記の3つのファイルから構成されます。
 
