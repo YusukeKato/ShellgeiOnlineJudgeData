@@ -3,8 +3,10 @@
 
 SHELLGEI ONLINE JUDGE: https://shellgei-online-judge.com/
 
-# WELCOME: Issues and Pull Requests
-問題データの追加に関するIssueやPull Requestは歓迎です。
+# Issues and Pull Requests are welcome!
+問題案や修正案などがあればIssueやPull Requestを作成していただけたら幸いです。
 
 # LICENSE
-LICENSE: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by/4.0/)
+本リポジトリはCreative Commons BY-NC-ND 4.0で公開しています。
+
+LICENSE: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt)
