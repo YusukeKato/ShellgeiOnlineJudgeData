@@ -23,9 +23,6 @@
 2. 入力ファイル
 3. 想定出力ファイル
 
-# IssueとPull Requestについて
-問題案や修正案などがあればIssueやPull Requestを作成していただけたら助かります。
-
 # ライセンスについて
 本リポジトリはCreative Commons BY-NC-ND 4.0で公開しています。
 

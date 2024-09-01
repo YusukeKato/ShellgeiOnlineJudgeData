@@ -19,9 +19,6 @@ A single problem consists of the following three files.
 2. Input file
 3. Expected file
 
-# Issues and Pull Requests are welcome!
-If you have any problem suggestions or revisions, we would appreciate it if you could create an Issue or a Pull Requests.
-
 # LICENSE
 This repository is licensed under Creative Commons BY-NC-ND 4.0.
 
