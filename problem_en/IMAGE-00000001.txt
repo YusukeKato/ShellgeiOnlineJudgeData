@@ -1,2 +1,2 @@
-Create an image with a size of 100x100[px] and color #000000(black) as media/output.jpg.
+Create an image with a size of 200x200[px] and color #FF0000(red) as media/output.jpg.
 
