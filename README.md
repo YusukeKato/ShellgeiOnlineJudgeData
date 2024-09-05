@@ -1,9 +1,10 @@
-[English](./README.en.md)
-
 # SHELLGEI ONLINE JUDGE DATA
-シェル芸オンラインジャッジの問題データ集です。
+This repository contains a collection of problem data for the SHELLGEI ONLINE JUDGE.
 
-シェル芸オンラインジャッジ: https://shellgei-online-judge.com/
+SHELLGEI ONLINE JUDGE: https://shellgei-online-judge.com/
+
+# Your idea is welcome!
+Issue: https://github.com/YusukeKato/ShellgeiOnlineJudgeData/issues/2
 
 # Shellgei Online Judge Repositories
 - main: https://github.com/YusukeKato/ShellgeiOnlineJudge
@@ -11,27 +12,24 @@
 - server: https://github.com/YusukeKato/ShellgeiOnlineJudgeServer
 - problem data: https://github.com/YusukeKato/ShellgeiOnlineJudgeData
 
-# 問題データについて
-問題ごとにIDを割り当てて管理しています。
+# About DATA
+Each problem is assigned an ID.
 
-- problem_jp/\*.txt: 日本語問題文ファイル
-  - GENERAL-\*.txt: 通常問題
-  - EXERCISE-\*.txt: 練習問題
-- problem_en/\*.txt: 英語問題文ファイル
-  - GENERAL-\*.txt: 通常問題
-  - EXERCISE-\*.txt: 練習問題
-- input/\*.txt: 入力ファイル
-- output/\*.txt: 想定出力ファイル
+- problem_jp/\*.txt: Japanese problem statement files
+- problem_en/\*.txt: English problem statement files
+- problem_images/\*.jpg: image files
+- input/\*.txt: Input files
+- output/\*.txt: Expected output files
 
-一つの問題は下記の3つのファイルから構成されます。
+A single problem consists of the following three files.
 
-1. 問題文ファイル
-2. 入力ファイル
-3. 想定出力ファイル
+1. Problem files
+2. Input file
+3. Expected file
 
-# ライセンスについて
-本リポジトリはCreative Commons BY-NC-ND 4.0で公開しています。
+# LICENSE
+This repository is licensed under Creative Commons BY-NC-ND 4.0.
 
 LICENSE: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-全文: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt
+Full LICENSE text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt
