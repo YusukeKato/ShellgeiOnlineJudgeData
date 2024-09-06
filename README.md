@@ -3,8 +3,8 @@ This repository contains a collection of problem data for the SHELLGEI ONLINE JU
 
 SHELLGEI ONLINE JUDGE: https://shellgei-online-judge.com/
 
-# Your idea is welcome!
-Issue: https://github.com/YusukeKato/ShellgeiOnlineJudgeData/issues/2
+# Discussions
+https://github.com/YusukeKato/ShellgeiOnlineJudge/discussions
 
 # Shellgei Online Judge Repositories
 - main: https://github.com/YusukeKato/ShellgeiOnlineJudge
